@@ -1,5 +1,5 @@
 name: lang_learn
-description: A new Flutter project
+description: A new Flutter project of learning language
 
 version: 1.0.0+1
 
@@ -12,7 +12,7 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   translator: ^0.1.7
-  flutter_lang_learn: ^3.1.0
+  flutter_tts: ^3.1.0
 
 dev_dependencies:
   flutter_test:

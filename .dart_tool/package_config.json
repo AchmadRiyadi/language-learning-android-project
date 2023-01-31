@@ -32,6 +32,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "cupertino_icons",
+      "rootUri": "file:///C:/Users/Achmad%20Riyadi/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "fake_async",
       "rootUri": "file:///C:/Users/Achmad%20Riyadi/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.1",
       "packageUri": "lib/",
@@ -48,6 +54,30 @@
       "rootUri": "file:///C:/Android/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_tts",
+      "rootUri": "file:///C:/Users/Achmad%20Riyadi/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_tts-3.6.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///C:/Android/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/Achmad%20Riyadi/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/Users/Achmad%20Riyadi/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "js",
@@ -122,19 +152,31 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "translator",
+      "rootUri": "file:///C:/Users/Achmad%20Riyadi/AppData/Local/Pub/Cache/hosted/pub.dev/translator-0.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/Achmad%20Riyadi/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///C:/Users/Achmad%20Riyadi/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
-      "name": "my_project",
+      "name": "lang_learn",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-01-31T05:28:23.516069Z",
+  "generated": "2023-01-31T06:09:16.819970Z",
   "generator": "pub",
   "generatorVersion": "2.19.0"
 }
